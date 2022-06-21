@@ -23,7 +23,7 @@ MarkupSafe==1.0
 matplotlib==2.1.1
 nltk==3.2.5
 numexpr==2.6.4
-numpy==1.13.3
+numpy==1.22.0
 oauthlib==2.0.6
 pandas==0.21.0
 Pattern==2.6
